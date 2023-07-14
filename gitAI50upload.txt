@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "asdf"
+git remote add origin https://github.com/me50/ppandey87.git
+git checkout -b ai50/projects/2020/x/...
+git push --all origin
